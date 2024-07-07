@@ -1,6 +1,6 @@
 # Prasunet_WD_01
 Responsive Landing Page
-Description:
+
 This is an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The menu has a fixed position and is visible on all pages, making it easily accessible. It uses HTML to structure the menu, CSS to style it, and JavaScript to add interactivity.
 
 Features:
